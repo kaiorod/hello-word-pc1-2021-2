@@ -6,7 +6,7 @@ namespace hello_word_pc1_2021_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Etec AB!");
+            Console.WriteLine("Olá Etec AB!");
         }
     }
 }
